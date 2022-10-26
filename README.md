@@ -1,11 +1,11 @@
-<h2> Hi, I'm Agustín Rivera! <img src="https://user-images.githubusercontent.com/100369471/198075622-eb0e607e-5c01-47d1-88af-669788db71b6.gif" width="50"></h2>
+<h2> Hi, I'm Agustín Rivera! <img src="https://user-images.githubusercontent.com/100369471/198080698-05597961-450e-4f23-a3c1-acb793867c7f.gif" width="50"></h2>
 <img align='right' src="https://user-images.githubusercontent.com/100369471/198073358-bf687656-a733-400a-86be-07e444123fba.jpg" width="230">
 <p><em>Software engineering student at <a href="https://www.gub.uy/">Uruguay</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub Agustín](https://img.shields.io/github/followers/agusriv?label=follow&style=social)](https://github.com/agusriv)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -29,4 +29,4 @@ const thai = {
 
 ---
 
-⭐️ From [@Thaiane](https://github.com/Thaiane)
+⭐️ From [@agusriv](https://github.com/agusriv)
