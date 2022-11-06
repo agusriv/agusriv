@@ -1,4 +1,4 @@
-<h2> Hi, I'm Agustín Rivera! <img src="https://user-images.githubusercontent.com/100369471/198080698-05597961-450e-4f23-a3c1-acb793867c7f.gif" width="50"></h2>
+<h2> Hi, I'm Agustín Rivera! 
 <img align='right' src="https://user-images.githubusercontent.com/100369471/198073358-bf687656-a733-400a-86be-07e444123fba.jpg" width="230">
 <p><em>Software engineering student at <a href="https://www.gub.uy/">Uruguay</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
