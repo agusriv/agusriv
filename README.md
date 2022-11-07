@@ -1,32 +1,27 @@
-<h2> Hi, I'm Agustín Rivera! 
-<img align='right' src="https://user-images.githubusercontent.com/100369471/198073358-bf687656-a733-400a-86be-07e444123fba.jpg" width="230">
-<p><em>Software engineering student at <a href="https://www.gub.uy/">Uruguay</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<img align="right" width="400" height="400" src="https://instagram.feoh3-1.fna.fbcdn.net/v/t51.2885-15/e35/72767618_530543940843085_5872510229440679720_n.jpg?_nc_ht=instagram.feoh3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=QePZ0N-eHRoAX_hftNl&oh=08407c6056b3380fc09d01f51ed9729c&oe=5F30A1C4">
 
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Agustín](https://img.shields.io/github/followers/agusriv?label=follow&style=social)](https://github.com/agusriv)
+# Hi, I'm Alejandro :chicken:
+
+Full-Stack | Software engineer :robot:. (In progress)
+
+Holberton School Student. :man_technologist:
+
+## About me 
+
+:heart: Drawing | :black_heart: Hip-Hop | :blue_heart: Programming
+
+- :earth_americas: I'm from Medellin - Colombia
+- :video_game: I like to play video games
+- :gem: I love to customize everything lol
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+## Social media :mailbox_with_no_mail:
 
-```javascript
-const thai = {
-  pronouns: "he" | "has",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+[![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://twitter.com/alejorc277)
+[![Twitter URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/alejorc_)
+[![Twitter URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/alejandro-ramirez-ciceros/)
+[![Twitter URL](https://img.shields.io/twitter/url?color=orange&label=follow&logo=reddit&logoColor=orange&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://www.reddit.com/user/FatChicken277)
 
 ---
-
-⭐️ From [@agusriv](https://github.com/agusriv)
+⭐️ From [FatChicken277](https://github.com/FatChicken277)
