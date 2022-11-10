@@ -20,4 +20,4 @@ Full-Stack | Software engineer :robot:. (In progress)
 [![Twitter URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/_agus_rivera_/)
 
 ---
-⭐️ From [Agus]()
+⭐️ From [Agus](https://github.com/agusriv)
