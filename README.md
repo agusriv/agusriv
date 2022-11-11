@@ -3,7 +3,7 @@
 
 # Hi, I'm Agustín 😉:
 
-Full-Stack | Software engineer :robot:. (In progress)
+Web developer | Software engineer :robot:. (In progress)
 
 ## About me 
 
