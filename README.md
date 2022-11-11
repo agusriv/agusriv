@@ -1,7 +1,7 @@
-<img align="right" width="500" height="400" src= "https://user-images.githubusercontent.com/100369471/200211139-23f3d4bc-02c8-43e9-bee8-5dd8db8ac10c.jpg">
+<img align="right" width="668" height="332" src= "https://user-images.githubusercontent.com/100369471/200211139-23f3d4bc-02c8-43e9-bee8-5dd8db8ac10c.jpg">
 
 
-# Hi, I'm Agustín
+# Hi, I'm Agustín 😉:
 
 Full-Stack | Software engineer :robot:. (In progress)
 
